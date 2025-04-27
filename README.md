@@ -13,6 +13,7 @@ I'm a tech enthusiast constantly evolving. Here you'll find my practical studies
 - `cloud/` – Azure labs, CLI, RBAC, Terraform  
 - `labs/` – Integrative projects and hands-on challenges  
 - `diario/` – Technical journal with notes and glossary
+- `projects/` – Others projects
 
 ## 📅 Phase Progress
 - Phase 1 (Month 1-3): Foundations (Linux, Networking, Security)
